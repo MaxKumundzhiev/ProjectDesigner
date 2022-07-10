@@ -20,4 +20,6 @@ Placeholder for automated testing setup for a particular project.
 conda install -p /Users/macbook/miniforge3/envs/ProjectDesigner words_counter -y
 ```
 
+![Tests](https://github.com/MaxKumundzhiev/ProjectDesigner/actions/workflows/main_push_run_tests_on_different_envs.yaml/badge.svg)
+
 
