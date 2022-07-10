@@ -1,4 +1,4 @@
-name: pytests, mypy, flake with dev requirements on multiple environments
+name: Tests
 
 on:
   - push
